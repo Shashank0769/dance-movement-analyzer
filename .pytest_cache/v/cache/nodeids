@@ -1,0 +1,5 @@
+[
+  "tests/test_analysis_synthetic.py::test_analyze_returns_summary",
+  "tests/test_pose_utils.py::test_angle_between_simple_right_angle",
+  "tests/test_pose_utils.py::test_detect_hands_up_and_t_pose"
+]
